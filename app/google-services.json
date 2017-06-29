@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "190126878910",
+    "firebase_url": "https://demohome-620f0.firebaseio.com",
+    "project_id": "demohome-620f0",
+    "storage_bucket": "demohome-620f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190126878910:android:6bdb9788266bda40",
+        "android_client_info": {
+          "package_name": "com.example.samtech.homemobile2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190126878910-er116colo8pl3rj0g2hnp9i0h0aaa9c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqKXmy2twQVLP6GrkKtgnUA_7ZPvy0PDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
